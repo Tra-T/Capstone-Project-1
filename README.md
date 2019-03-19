@@ -1,4 +1,5 @@
-# Capstone-Project-1
+# Determining the Traffic Accidents in the UK.
 
-https://docs.google.com/document/d/15VaCVYCyfe9_bzUHyDo25IJ2hXgMOGZhArAGI78PR84/edit?usp=sharing
+Author: Tra Thomas
+Date: March, 8, 2019
 
